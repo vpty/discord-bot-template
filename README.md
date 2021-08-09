@@ -9,3 +9,5 @@
 7. node index.js
 8. You're Done!
 # Update Log📰
+# Credits
+[discord.js](https://discord.js.org) -- thanks discord.js!
