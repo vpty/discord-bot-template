@@ -1,5 +1,5 @@
 # BotTemplate1.01 by p1re 
-made with ❤️ by p1re in 2021
+made with ❤️ by p1re in 2021.
 # Steps👣
 1. Fork and Download Repo
 2. Open it with your Code Editor and put your bot Token (never share your token)
